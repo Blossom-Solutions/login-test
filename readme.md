@@ -2,7 +2,7 @@
  Using Node JS, Express and MySQL to achieve a simple login application
 
 ## How to use
-Simply clone in a directory of your choice, and run [npm](https://www.npmjs.com)install.
+Simply clone in a directory of your choice, and run [npm](https://www.npmjs.com) install.
 The Front-End can be found in /public/ , costumize it to your own liking.
 
 ## Requirements
