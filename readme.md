@@ -3,6 +3,7 @@
 
 ## How to use
 Simply clone in a directory of your choice, and run [npm](https://www.npmjs.com) install.
+Also you can either replace env.process. with your secrets, but I recommend you make use of [Environment Variables](https://www.npmjs.com/package/dotenv) 
 The Front-End can be found in /public/ , costumize it to your own liking.
 
 ## Requirements
